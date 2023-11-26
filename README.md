@@ -32,17 +32,18 @@
 <br/>
 <div align="center">
 <h4>
-    <p align="left"><span style="color: green;">The list will keep changing over time :-)</p>
-    <P align="left"><span style="color: blue;">That I know :</p>
+    <p align="left"><span style="color: green;">The list will keep changing over time :-)</span></p>
+    <P align="left"><span style="color: blue;">That I know :</span></p>
     <img src="https://skillicons.dev/icons?i=c,vscode,github,git,linux,bash," />
 </h4>
 <h4>
-    <p align="left"><span style="color: red;">current or will:</p>
+    <p align="left"><span style="color: red;">Current or will:</span></p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ruby,cs,cpp,swift,androidstudio,blender,python,ps,godot" /><br>
 </h4>
 </div>
 <br/>
 <hr/>
+</div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
